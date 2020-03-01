@@ -1,0 +1,28 @@
+.container
+{
+    margin-left: 20px;
+}
+
+img{
+    color: white;
+}
+.section h4 {
+    font-family: Spartan;
+    color: #1590a3; 
+}
+
+h5{
+    font-family: Spartan;
+}
+
+li{
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.container .col-lg-3 
+{
+    font-family: Roboto; 
+    font-size: 18px;
+}
+

@@ -2,7 +2,12 @@
 {
     margin-left: 20px;
 }
-
+@media screen and (max-width: 600px) {
+    #headache p img{
+    margin-left: 35px;
+ 
+    }
+   }
 img{
     color: white;
 }

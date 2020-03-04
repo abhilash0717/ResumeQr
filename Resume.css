@@ -8,6 +8,9 @@
  
     }
    }
+@page
+    {
+        size:auto;
 img{
     color: white;
 }
